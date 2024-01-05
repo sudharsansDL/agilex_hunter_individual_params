@@ -1,3 +1,3 @@
-# autoware_individual_params
+# agilex_hunter_individual_params
 
-This repository stores parameters that change depending on each vehicle.
+Individual params for the agilex hunter vehicle
